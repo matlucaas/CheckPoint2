@@ -28,6 +28,7 @@ Bom, é muito simples, o sensor de temperatura capta a temperatura do ambiente, 
 ## Como utilizar o projeto pelo simulador:
 Para começar, entre no link abaixo:
 + https://www.tinkercad.com/things/fv3xi54HsJ2-brilliant-stantia-gaaris/editel
+
 Agora, já no simulador, basta clicar no canto superior direito em "Iniciar simulação" ou clicar na tecla "S". Feito isso, agora vamos testar se as 3 grandezas estão sendo captadas normalmente. Clique no potenciômetro inferior e gire ele ou para a esquerda para diminuir ou para a direita para aumentar a UMIDADE, e é interessante que após testar, deixá-lo no nível adequado para testarmos as próximas para que o buzzer ou os LEDs não fiquem emitindo nenhum alerta, faça isso também com os próximos sensores. Clique no sensor de temperatura ao lado, e aumente ou abaixe a temperatura do ambiente para ver até quando a temperatura está "OK", faça isso também com o LDR ao lado, que ao ser clicado, aparece um índice de luminosidade, que conforme é aumentado e quanto mais luz tiver no ambiente, pior será para a qualidade dos vinhos, e tudo isso é alertado no nosso projeto, então sempre que alguma dessas grandezas estiver fora do normal, o buzzer e os LEDs irão notificar.
 
 ## Link do vídeo:
