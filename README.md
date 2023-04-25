@@ -7,7 +7,7 @@
 + Matheus Lucas - RM: 99505
 
 ## Sobre o projeto:
-Este projeto é basicamente uma melhoria do nosso primeiro projeto feito no CP1, que captava a luminosidade do ambiente e de acordo com o nível da luminosidade retornava se a mesma estava boa ou ruim para a produção de vinhos por meio de ***leds*** e um ***buzzer***.
+Este projeto é basicamente uma melhoria do nosso primeiro projeto feito no CP1, que captava a luminosidade do ambiente por meio de um ***LDR*** e de acordo com o nível da luminosidade retornava se a mesma estava boa ou ruim para a produção de vinhos por meio de ***leds*** e um ***buzzer***.
 
 ### Mas o que foi feito de novo?
 Neste novo projeto, incluímos ferramentas que simulam o sensor DHT11, pois o mesmo não existe no simulador. Mas por que o uso deste sensor? O DHT11 é um sensor que consegue captar a umidade e a temperatura do ambiente, grandezas as quais são tão essenciais quanto a luminosidade na produção de vinho. Como foi dito anteriormente, no simulador em si este sensor não existe, mas usamos outra ferramenta para simulá-la.
