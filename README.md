@@ -1,13 +1,10 @@
 # CheckPoint2 - Edge Computing
 
 ## Integrantes do grupo:
-+ BRUNO SILVA BASTOS 
-
-+ GUILHERME DAHER 
-
-+ GABRIEL FREITAS 
-
-+ MATHEUS LUCAS 
++ Bruno Bastos - RM: 550416
++ Gabriel Freitas - RM: 550187
++ Guilherme Daher - RM: 98611
++ Matheus Lucas - RM: 99505
 
 ## Sobre o projeto:
 Este projeto é basicamente uma melhoria do nosso primeiro projeto feito no CP1, que captava a luminosidade do ambiente e de acordo com o nível da luminosidade retornava se a mesma estava boa ou ruim para a produção de vinhos por meio de ***leds*** e um ***buzzer***.
